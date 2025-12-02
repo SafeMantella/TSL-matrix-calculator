@@ -32,10 +32,10 @@ A aplicação possui uma interface gráfica intuitiva (Tkinter) dividida em trê
 
 1.  **Clone o repositório** (ou baixe o arquivo `app_matrizes.py` diretamente):
     ```bash
-    git clone https://github.com/usuario/LinearSystemsTool-CayleyHamilton.git
+    https://github.com/SafeMantella/TSL-matrix-calculator
     cd LinearSystemsTool-CayleyHamilton
     ```
-    *(Nota: `https://github.com/usuario/LinearSystemsTool-CayleyHamilton.git` é um link ilustrativo. Substitua pelo link real do repositório se ele for disponibilizado no GitHub.)*
+    *(Nota: `https://github.com/SafeMantella/TSL-matrix-calculator` é um link ilustrativo. Substitua pelo link real do repositório se ele for disponibilizado no GitHub.)*
 
 2.  **Instale as dependências** utilizando `pip` e o arquivo `requirements.txt`:
     ```bash
