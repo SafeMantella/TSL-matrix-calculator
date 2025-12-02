@@ -33,9 +33,8 @@ A aplicação possui uma interface gráfica intuitiva (Tkinter) dividida em trê
 1.  **Clone o repositório** (ou baixe o arquivo `app_matrizes.py` diretamente):
     ```bash
     https://github.com/SafeMantella/TSL-matrix-calculator
-    cd LinearSystemsTool-CayleyHamilton
+    cd TSL-matrix-calculator
     ```
-    *(Nota: `https://github.com/SafeMantella/TSL-matrix-calculator` é um link ilustrativo. Substitua pelo link real do repositório se ele for disponibilizado no GitHub.)*
 
 2.  **Instale as dependências** utilizando `pip` e o arquivo `requirements.txt`:
     ```bash
@@ -68,7 +67,3 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 ## Autor
 
 Pedro Arfux Pereira Cavalcante de Castro
-
-## Agradecimentos
-
-Agradeço à Universidade Federal de Mato Grosso do Sul (UFMS) pelo suporte institucional.
